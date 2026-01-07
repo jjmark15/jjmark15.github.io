@@ -1,4 +1,4 @@
-<meta name="go-import" content="chaoticgoose.uk/cgutils git https://codeberg.org/chaoticgoose/cgutils">
+<meta name="go-import" content="dev.chaoticgoose.uk/cgutils git https://codeberg.org/chaoticgoose/cgutils">
 
 
 # jjmark15.github.io
